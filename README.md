@@ -1,2 +1,0 @@
-# PythonLearning
-PythonLearning-WithJimbo

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f0e1b18-7165-4b12-a515-948cd2c251f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeapYear/leapyears.py" />
-    </list>
+    <list default="true" id="3f0e1b18-7165-4b12-a515-948cd2c251f2" name="Default" comment="" />
     <ignored path="PythonLearning.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="leapyears.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeapYear/leapyears.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="640">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -329,8 +327,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LeapYear/leapyears.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="640">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
